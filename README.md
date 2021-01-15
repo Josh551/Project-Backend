@@ -25,7 +25,7 @@ Installs all dependent npm packages locally.
 
 ## Run
 
-Type: `npm server`
+Type: `npm run server`
 
 Runs the app in the development mode. Listens on http://localhost:5000. Server can be restarted by pressing 'rs' in command line.
 
